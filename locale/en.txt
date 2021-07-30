@@ -117,4 +117,4 @@ LinkBehaviour_857BFFFF_F97A_1C40_41C3_595D03B50C6C.source = https://bumibutuhaks
 LinkBehaviour_9B811112_F8FE_65C0_41E7_668FBD59D196.source = https://bumibutuhaksi.id/
 LinkBehaviour_B0032BA0_F680_E820_41D8_C0B236D0744B.source = https://bumibutuhaksi.id/beraksi/tenggelam-dalam-diam/postcard
 LinkBehaviour_CA95506C_EC87_C3F2_41E3_BB014841E8B8.source = https://bumibutuhaksi.id/beraksi/tenggelam-dalam-diam/pelatihan
-PopupWebFrameBehaviour_FCE7C449_F3C9_631B_41ED_A8459CDFF0C9.url = https://serrumarthandling360.github.io/flipdolly/
+PopupWebFrameBehaviour_FCE7C449_F3C9_631B_41ED_A8459CDFF0C9.url = https://mengabarkankitatenggelam.rimpangdigital.com/
