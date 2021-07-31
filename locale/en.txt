@@ -111,7 +111,7 @@ FramePanoramaOverlay_D4A03C03_D8FA_D1EA_41EB_10793B98B953.url = //www.youtube.co
 ## Action
 
 ### URL
-LinkBehaviour_857A7000_F97A_63C0_41ED_36519B0E9E40.source = https://bumibutuhaksi.id/
+LinkBehaviour_857A7000_F97A_63C0_41ED_36519B0E9E40.source = https://bumibutuhaksi.id/beraksi/tenggelam-dalam-diam/pameran-virtual
 LinkBehaviour_857BFFFF_F97A_1C40_41B4_6D1375ECFCA0.source = https://bumibutuhaksi.id/beraksi/tenggelam-dalam-diam/pelatihan
 LinkBehaviour_857BFFFF_F97A_1C40_41C3_595D03B50C6C.source = https://bumibutuhaksi.id/beraksi/tenggelam-dalam-diam/postcard
 LinkBehaviour_9B811112_F8FE_65C0_41E7_668FBD59D196.source = https://bumibutuhaksi.id/beraksi/tenggelam-dalam-diam/pameran-virtual
